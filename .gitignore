@@ -1,0 +1,14 @@
+# Verilator generated files
+obj_dir/
+
+# Simulation waveforms
+*.vcd
+*.fst
+
+# Compiled files
+*.o
+*.a
+*.d
+
+# Temporary files
+*.log
